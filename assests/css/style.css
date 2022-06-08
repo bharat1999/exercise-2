@@ -35,7 +35,7 @@ h1{
     font-weight: 1500;
 }
 .main{
-    margin: 2rem auto 4rem; 
+    margin: 4rem auto 4rem; 
 }
 .menu
 {
@@ -44,7 +44,7 @@ h1{
 }
 p
 {
-    font-size: x-large;
+    font-size: xx-large;
 }
 .bottom-container
 {
@@ -67,7 +67,7 @@ p
 }
 .fab:hover
 {
-    color: #e4f9f5;
+    color:white;
 }
 .btn-default
 {
