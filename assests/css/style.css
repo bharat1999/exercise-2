@@ -67,7 +67,7 @@ p
 }
 .fab:hover
 {
-    color:white;
+    color: blue;
 }
 .btn-default
 {
@@ -76,7 +76,7 @@ p
 }
 .btn-default:hover
 {
-    color: red;
+    color:red;
     background-color:#40514e;
 }
 .none
