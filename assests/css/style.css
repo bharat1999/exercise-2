@@ -76,7 +76,7 @@ p
 }
 .btn-default:hover
 {
-    color: #EAF6F6;
+    color: red;
     background-color:#40514e;
 }
 .none
